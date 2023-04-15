@@ -19,13 +19,12 @@
 
 
 #logo-img {
-    background-image: url(../Resource/logo.jpeg);
+    background-image: url(../Resource/logo.png);
     background-repeat: no-repeat;
     background-size:  150px;
-    width: 200px;
-    height: 70px;
-    background-color: rgba(0,0,0,0);
-    background-color: transparent;
+    width: 300px;
+    height: 100px;
+    
 }
 
 
